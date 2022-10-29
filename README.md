@@ -1,2 +1,2 @@
 # MPC
-Food Products
+Food Products to purchase
