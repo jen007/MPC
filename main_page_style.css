@@ -65,15 +65,28 @@ body {
 #navigation-bar li {
     list-style: none;
     padding: 0 20px;
+    position: relative;
 }
-
-#navigation-bar a {
+#navigation-bar li a {
     text-decoration: none;
     font-weight: 600;
     font-size: 16px;
     color: #222222;
 }
+#navigation-bar li a:hover,
+#navigation-bar li a.activeTab {
+    color: lavender;
+}
+#navigation-bar li a.activeTab::after,
+#navigation-bar li a:hover::after {
+    content: "";
+    width: 30%;
+    height: 2px;
+    background: lavender;
+    bottom: -4px;
+    left: 20px;
+    position: absolute;
+}
 /* Home Page */
-/* About Page */
 /* Products Page */
 /* Contact Page */
