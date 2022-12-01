@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px;
+    line-height: 64px;
+    color: #05386B;
+}
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: #8EE4AF;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}
+
+#navigation-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#navigation-bar li {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+}
+#navigation-bar li a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    color: #222222;
+}
+#navigation-bar li a:hover,
+#navigation-bar li a.activeTab {
+    color: lavender;
+}
+#navigation-bar li a.activeTab::after,
+#navigation-bar li a:hover::after {
+    content: "";
+    width: 30%;
+    height: 2px;
+    background: lavender;
+    bottom: -4px;
+    left: 20px;
+    position: absolute;
+}
+body{
+    background: #5CDB95;
+    font-size: 14px;
+    font-family: 'Bitter', serif;
+}
+.center_header{
+    width:80%;
+    margin: 50px auto;
+}
+.contact_box{
+    background:#ffff;
+    display: flex;
+}
+.contact_left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+.contact_right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: #074b28;
+    color: #ffff;
+}
+h1{
+   margin-bottom: 10px;
+}
+.center_header p{
+    margin-bottom: 40px;
+}
+.input_row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.input_row .input_group{
+    flex-basis: 45%;
+}
+input{
+    width:100%;
+    border:none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding:10px ;
+}
+button{
+    background: #10643f;
+    width: 70px;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 20px;
+    margin-top: 10px;
+    box-shadow:  1px 3px 10px 1px rgba(28,0,181,0.3);
+}
+.contact_left h3{
+    color:#10643f;
+    font-weight:600;
+    margin-bottom: 30px;
+}
+.contact_right h3{
+    font-weight:600;
+    margin-bottom: 30px;
+}
+tr td:first-child{
+    padding-right: 20px;
+}
+tr td {
+    padding-top: 20px;
+}
