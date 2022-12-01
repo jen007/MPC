@@ -1,3 +1,3 @@
 # MPC
 Food Products to purchase
-![HomePage Screen](https://user-images.githubusercontent.com/89892415/200107407-fb773d18-4659-4910-9710-606bce23ad75.jpg)
+![Read Me Picture_updated_12 1 22](https://user-images.githubusercontent.com/89892415/205155329-ea450875-c8cc-4d29-ba67-cb55a680565f.jpg)
