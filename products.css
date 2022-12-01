@@ -51,13 +51,6 @@ body{
     font-size: 16px;
     font-family: 'Bitter', serif;
 }
-#about{
-    width:80%;
-    margin: 100px auto;
-}
-h2{
-    margin-bottom: 20px
-}
-#about p{
-    margin-bottom: 15px;
+.section-pad1 {
+    padding: 40px 80px;
 }
