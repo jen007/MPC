@@ -44,8 +44,6 @@
     position: absolute;
 }
 /* Home Page */
-/* Products Page */
-/* Contact Page */
 h1 {
     font-family: 'Brush Script MT', cursive;
     font-size: 40px;
@@ -53,12 +51,14 @@ h1 {
     color: #05386B;
 }
 body {
-    /*width: 100%;*/
     background: #5CDB95;
     font-family: 'Bitter', serif;
 }
 #home_page{
+    background-image: url("Home-Page-Img.jpg");
     background-color:#ffff;
+    background-position: top 25% right 0;
+    background-size: cover;
     height: 60vh;
     width: 72%;
     margin: 100px auto;
@@ -71,10 +71,12 @@ body {
 
 }
 #home_page h2{
+    color: lavender;
     font-size: 30px;
     margin-bottom: 3px
 }
 #home_page h3{
+    color: lavender;
     font-size: 23px;
     margin-bottom: 20px
 }
@@ -83,6 +85,7 @@ body {
     /*color: #465b52;*/
     /*argin: 15px 0 20px 0;*/
     /*margin-bottom: 15px;*/
+    color: lavender;
     margin-bottom: 15px;
 }
 button {
@@ -97,11 +100,3 @@ button {
     font-size: 15px;
     box-shadow: 1px 3px 10px 1px rgba(28, 0, 181, 0.3);
 }
-/*.section-pad1 {*/
-/*    padding: 40px 80px;*/
-/*}*/
-
-/*.section-marg1 {*/
-/*    margin: 40px 0;*/
-/*}*/
-
