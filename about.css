@@ -1,14 +1,21 @@
-body{
+@import url('https://fonts.googleapis.com/css?=family=Poppins:100,200,300,400,500,600,700');
+*{
     margin: 0;
-    font-family: sans-serif;
+    padding: 0;
 }
-.section{
-    background-color: white;
+body{
+    background: #3333;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
     display: flex;
-    justify-content: space-between;
-    padding: 40px;
-    width: 60%;
-    margin: 10rem auto 0 auto;
+}
+.cover{
+    width: 900px;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+    /*background: #000;*/
 }
 .box{
     margin: 10px;
@@ -19,16 +26,9 @@ body{
     justify-content: center;
     align-self: center;
 }
-.section img{
-    height: 250px;
-}
-.section h2{
-    margin: 0;
-    color: black;
-}
-.section p{
-    color: black;
-    margin-right: 15px;
+img{
+    width: 300px;
+    height: 200px;
 }
 * {
     margin: 0;
@@ -86,6 +86,9 @@ body{
 #about{
     width:80%;
     margin: 100px auto;
+}
+h2{
+    margin-bottom: 20px
 }
 #about p{
     margin-bottom: 15px;
