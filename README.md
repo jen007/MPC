@@ -14,7 +14,7 @@ Micaela's Produce Center is a future groceries ecommerce with essential commerce
 ![Read Me Picture_updated_12 7 2022](https://user-images.githubusercontent.com/89892415/206359253-d0ec41f3-79c6-4cb2-b4a4-65b820ba41ef.jpg)
 
 ## FEATURES
-Containes 7 Pages:
+Contains 4 Pages:
 - [Home Page]
 - [About Page]
 - [Products Page]
