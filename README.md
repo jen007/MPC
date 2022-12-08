@@ -10,7 +10,9 @@
 
 ## INTRODUCTION
 Micaela's Produce Center is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, Javascript.
-                     
+
+![Read Me Picture_updated_12 7 2022](https://user-images.githubusercontent.com/89892415/206359253-d0ec41f3-79c6-4cb2-b4a4-65b820ba41ef.jpg)
+
 ## FEATURES
 Containes 7 Pages:
 - [Home Page]
