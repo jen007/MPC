@@ -4,15 +4,13 @@
 
 
 <p align="center, >
-   <h2 align="center">Food & Vegeatables for Purchase by Gabriela Gutierrez, Rosa Reynoso, Jennifer Lopez</h1>
+   <h2 align="center">Food & Vegeatables for Purchase by Gabriela Gutierrez, Rosa Reynoso, Jennifer Lopez</h2>
 										 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>
-		     <strong>INTRODUCTION</strong>
-		     </p>
 
+## INTRODUCTION
 Micaela's Produce Center is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, Javascript.
-
+                     
 ## FEATURES
 Containes 7 Pages:
 - [Home Page]
