@@ -1,14 +1,16 @@
-body{
+*{
     margin: 0;
+    padding: 0;
     font-family: sans-serif;
 }
 .section{
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     justify-content: space-between;
     padding: 40px;
     width: 60%;
-    margin: 10rem auto 0 auto;
+    margin: 1rem auto 0 auto;
+    border-radius: 10px;
 }
 .box{
     margin: 10px;
@@ -24,25 +26,24 @@ body{
     width: 400px;
 }
 .section h2{
-    margin: 0;
-    color: black;
+    margin: 0px;
+    margin-bottom: 30px;
+    color: #ffffff;
+    font-size: 35px;
 }
 .section p{
-    color: black;
+    color: #ffffff;
     margin-right: 15px;
+    font-size: 18px;
 
 }
-* {
-    margin: 0;
-    padding: 0;
-}
+/*header stuff*/
 #header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 80px;
-    background: #8EE4AF;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    padding: 0 50px;
+    background: none;
 }
 #navigation-bar {
     display: flex;
@@ -81,14 +82,12 @@ h1 {
     color: #05386B;
 }
 body{
-    background: #5CDB95;
-    font-size: 16px;
+    background-image: url("strawberry.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
     font-family: 'Bitter', serif;
-}
-#about{
-    width:80%;
-    margin: 100px auto;
-}
-#about p{
-    margin-bottom: 15px;
 }
