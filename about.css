@@ -20,7 +20,8 @@ body{
     align-self: center;
 }
 .section img{
-    height: 250px;
+    height: 500px;
+    width: 400px;
 }
 .section h2{
     margin: 0;
@@ -29,6 +30,7 @@ body{
 .section p{
     color: black;
     margin-right: 15px;
+
 }
 * {
     margin: 0;
