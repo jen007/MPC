@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center, >
+<p align="center">
    <h2 align="center">Food & Vegeatables for Purchase by Gabriela Gutierrez, Rosa Reynoso, Jennifer Lopez</h2>
 										 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
