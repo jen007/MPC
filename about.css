@@ -3,6 +3,9 @@
     padding: 0;
     font-family: sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 .section{
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
