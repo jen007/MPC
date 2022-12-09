@@ -9,7 +9,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ## INTRODUCTION
-Micaela's Produce Center is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, Javascript.
+Micaela's Produce Market is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, and Javascript. This website for created for a local family business created by Micaela Felipe and Marcos Reynoso. Their business is located in Southwest Florida.
 
 ## FEATURES
 Contains 4 Pages:
