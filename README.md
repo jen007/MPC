@@ -4,12 +4,12 @@
 
 
 <p align="center">
-   <h2 align="center">Food & Vegetables for Purchase by Gabriela Gutierrez, Rosa Reynoso, Jennifer Lopez</h2>
+   <h2 align="center">Food & Vegetables for Purchase by Rosa Reynoso, Gabriela Gutierrez, Jennifer Lopez</h2>
 										 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ## INTRODUCTION
-Micaela's Produce Market is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, and Javascript. This website for created for a local family business created by Micaela Felipe and Marcos Reynoso. Their business is located in Southwest Florida.
+Micaela's Produce Market is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, and Javascript. This website was created for a local family business owned by Micaela Felipe and Marcos Reynoso. Our goal for devloping this wbesite was to be more involved in our local community and to shine a social spotlight on Micaela's Produce Market.
 
 ## FEATURES
 Contains 4 Pages:
