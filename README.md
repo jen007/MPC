@@ -9,7 +9,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ## INTRODUCTION
-Micaela's Produce Market is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, and Javascript. This website was created for a local family business owned by Micaela Felipe and Marcos Reynoso. Our goal for devloping this wbesite was to be more involved in our local community and to shine a social spotlight on Micaela's Produce Market.
+Micaela's Produce Market is a future groceries ecommerce with essential commerce features. Our website is built with HTML, CSS, and Javascript. This website was created for a local family business owned by Micaela Felipe and Marcos Reynoso. Our goal for developing this website was to be more involved in our local community and to shine a social spotlight on Micaela's Produce Market.
 
 ## DEMO PRESENTATION
 
